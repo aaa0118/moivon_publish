@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f59847f4.css",
-    "main.js": "/static/js/main.9e5b368b.js",
+    "main.css": "/static/css/main.c8349d1a.css",
+    "main.js": "/static/js/main.7b1daa86.js",
     "static/media/bg.svg": "/static/media/bg.e0c30db233be3c261bc7.svg",
-    "static/media/bg1.svg": "/static/media/bg1.5e4bd3acfb8d599334a9.svg",
     "static/media/noize-bg.svg": "/static/media/noize-bg.b49908110a6671e3a326.svg",
     "static/media/bgImg.png": "/static/media/bgImg.8625b178745d9f8a4d3c.png",
+    "static/media/bg1.svg": "/static/media/bg1.12f057f7dd1294ed3450.svg",
     "static/media/Creativebackground.png": "/static/media/Creativebackground.c0a339e9afab08714d0b.png",
     "static/media/ProductSans-Regular.ttf": "/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
     "static/media/Manrope-SemiBold.ttf": "/static/media/Manrope-SemiBold.0a3797b8dd78c25ef6b4.ttf",
@@ -17,11 +17,11 @@
     "index.html": "/index.html",
     "static/media/next.svg": "/static/media/next.8f2067244635a9c53990.svg",
     "static/media/back.svg": "/static/media/back.583789cedfea782383b7.svg",
-    "main.f59847f4.css.map": "/static/css/main.f59847f4.css.map",
-    "main.9e5b368b.js.map": "/static/js/main.9e5b368b.js.map"
+    "main.c8349d1a.css.map": "/static/css/main.c8349d1a.css.map",
+    "main.7b1daa86.js.map": "/static/js/main.7b1daa86.js.map"
   },
   "entrypoints": [
-    "static/css/main.f59847f4.css",
-    "static/js/main.9e5b368b.js"
+    "static/css/main.c8349d1a.css",
+    "static/js/main.7b1daa86.js"
   ]
 }
